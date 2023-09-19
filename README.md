@@ -1,6 +1,7 @@
 - ❄️⛩️ Just Dreamy In A Winter Soul;
 - 🎏 LostnFound, Soloists 寂_;
 - Streamer, Beginner Coder / NFT Collector(s);
+
 - <_Searching for someone to blame is just a pain._> - Gojo Satoru
 
 <!---
