@@ -1,10 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Welcome+to+my+Profile!)](https://git.io/typing-svg)
+
 ==============================================================================================================================
 
 Web 2/3 Frontend Developer
 --------------------------
-
 Beginner-level Web 3 developer,, always have the passion to code for Frontend Development. NFT(s) Enthusiasm, Ex-Professional Typist.
+
+<img align="right" alt="Coding" width="300" src="https://i.gifer.com/Ai9i.gif"> 
 
 * 🌍  I'm based in Malaysia 🇲🇾
 * ✉️  You can contact me at [justwint3r@gmail.com](mailto:justwint3r@gmail.com)
