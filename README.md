@@ -11,7 +11,7 @@ Beginner-level Web 3 developer,, always have the passion to code for Frontend De
 * 🌍  I'm based in Malaysia 🇲🇾
 * ✉️  You can contact me at [justwint3r@gmail.com](mailto:justwint3r@gmail.com)
 * 🤝  I'm open to collaborating on Any Web 2/3 Frontend Projects!
-* ⚡  Streamer on twitch.tv/justwint3rr // Coding on Ubuntu Linux!
+* ⚡  Coding on Ubuntu Linux!
 
 <a href="https://www.github.com/JustWint3r" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/JustWint3r?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/wint3rnft" target="_blank" rel="noreferrer"><img
