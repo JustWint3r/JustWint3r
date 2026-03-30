@@ -4,7 +4,7 @@
 
 Web 2/3 Frontend Developer
 --------------------------
-Beginner-level Web 3 developer,, always have the passion to code for Frontend Development. NFT(s) Enthusiasm, Ex-Professional Typist.
+Beginner-level Web 2 / 3 developer,, always have the passion to code for Frontend Development. NFT(s) Enthusiasm, Ex-Professional Typist.
 
 <img align="right" alt="Coding" width="300" src="https://i.gifer.com/Ai9i.gif"> 
 
